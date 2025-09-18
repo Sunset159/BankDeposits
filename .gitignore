@@ -1,0 +1,14 @@
+# Maven
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Docker
+*.env
+
+# OS
+.DS_Store
