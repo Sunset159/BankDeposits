@@ -14,6 +14,8 @@
 
 ## Запуск
 
+docker-compose build
+
 docker-compose up -d
 
 ## Примеры фильтрации/сортироки
